@@ -4,6 +4,8 @@
 
 e107 Cayman theme is the premium e107 based on HTML theme for e107 2.3.1 only.  
  
+HTML demo:  http://themepush.com/demo/cayman/index.html
+ 
 
 ## Cayman Repositories Map 
 
