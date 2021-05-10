@@ -13,7 +13,10 @@ Cayman private repositories:
 
 * [Cayman Assets](https://github.com/e107-cayman-theme/Cayman-Assets)  
 * [Cayman Themes](https://github.com/e107-cayman-theme/Cayman-Themes)  
-* [Cayman JM Layouts Plugin](https://github.com/e107-cayman-theme/Cayman-JMLayouts-plugin)  
+
+Free repositories:
+
+* [JM Layouts Plugin](https://github.com/e107-plugins/JMLayouts-plugin)  
  
  
  
